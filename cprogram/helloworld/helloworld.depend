@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419196738 source:c:\users\yeonwoo\downloads\culater-master\culater-master\culater\cprogram\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
