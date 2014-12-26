@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419626444 source:c:\users\donghyeon\desktop\github\culater\cprogram\samplefileio\main.c
+	<stdio.h>
+	<stdlib.h>
+
